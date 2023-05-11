@@ -1,0 +1,37 @@
+
+*{
+    font-size: 18px;
+}
+
+body {
+background-color: antiquewhite;
+
+}
+#encabezado_principal{
+text-align: center;
+color: blue;
+}
+
+#encabezado_principal{
+    color: rgb(72, 9, 113);
+} 
+
+h2 {
+text-align: center;
+color:blue
+}
+
+#about{
+    font-style: normal;
+border-radius: 10px;
+background-color: bisque;
+color:black
+}
+
+#about::before{
+    content: "CLICK";
+    font-size: medium;
+background-color: firebrick ;
+
+
+}
